@@ -1,0 +1,668 @@
+Phentermine
+
+4771
+Hydrocodone/Acetaminophen
+
+5748525
+Amphetamine/Dextroamphetamine
+
+Zolpidem
+
+5732
+Alprazolam
+
+2118
+Lisinopril
+
+5362119
+Amlodipine
+
+2162
+Gabapentin
+
+3446
+Tramadol HCL
+
+63013
+33741
+67108333
+Amoxicillin
+
+33613
+Azithromycin
+
+447043
+Atorvastatin Calcium
+
+60822
+15378998
+60823
+656846
+11227182
+45790066
+101610369
+9833468
+17589822
+131675127
+Clonazepam
+
+2802
+Omeprazole
+
+4594
+Escitalopram
+
+146570
+Cyclobenzaprine
+
+2895
+Ondansetron
+
+4595
+Pantoprazole
+
+4679
+Sertraline
+
+68617
+Cetirizine
+
+2678
+Oxycodone/Acetaminophen
+
+Metformin
+
+4091
+Promethazine
+
+4927
+Vitamin D
+
+5280795
+Losartan
+
+3961
+Prednisone
+
+5865
+Bupropion
+
+444
+Duloxetine
+
+60835
+Venlafaxine
+
+5656
+Amoxicillin/Clavulanate
+
+Lorazepam
+
+3958
+Cialis
+
+110635
+Metoprolol
+
+4171
+Ibuprofen
+
+3672
+Oxycodone
+
+5284603
+Fluticasone
+
+5311101
+62924
+24847768
+122130768
+Carisoprodol
+
+2576
+Simvastatin
+
+54454
+Citalopram
+
+2771
+Methocarbamol
+
+4107
+Fluoxetine
+
+3386
+Loratadine
+
+3957
+Hydrochlorothiazide
+
+3639
+Folic Acid
+
+6037
+Lisinopril/Hydrochlorothiazide
+
+Metoprolol Tartrate
+
+Benzonatate
+
+7699
+Acetaminophen/Codeine
+
+Diazepam
+
+3016
+Clindamycin
+
+446598
+29029
+2786
+45357041
+44421072
+46783762
+52944314
+53245639
+129627692
+Meloxicam
+
+54677470
+Cephalexin
+
+27447
+Clopidogrel
+
+60606
+Buprenorphine
+
+644073
+3033050
+SMZ-TMP DS
+
+Tamslosin
+
+Ciprofloxacin
+
+2764
+Furosemide
+
+3440
+Montelukast
+
+5281040
+Trazodone
+
+5533
+Levothyroxine
+
+5819
+Fluconazole
+
+3365
+Ferrous Sulfate
+
+24393
+Viagra
+
+5212
+62853
+Methylpred
+
+Temazepam
+
+5391
+Finasteride
+
+57363
+Sumatriptan
+
+5358
+Lamotrigine
+
+3878
+Quetiapine
+
+5002
+Vitamin D3
+
+5280795
+Estradiol
+
+5757
+Ranitidine
+
+3001055
+Hydroxyzine
+
+3658
+Valacyclovir
+
+60773
+Cyanocobalamin
+
+5311498
+70678590
+4289526
+184933
+6442967
+16212801
+24892734
+46853873
+54605677
+73357424
+5460135
+6474318
+25102581
+44176380
+91898871
+118701720
+129627537
+129627679
+Pravastatin
+
+54687
+Carvedilol
+
+2585
+Metronidazole
+
+4173
+Losartan/Hydrochlorothiazide
+
+Cheratussin
+
+Sildenafil
+
+5212
+Testosterone
+
+6013
+Atenolol
+
+2249
+Levofloxacin
+
+149096
+Naproxen
+
+156391
+Topiramate
+
+5284627
+Levetiracetam
+
+5284583
+ProAir HFA
+
+39859
+Eszopiclone
+
+969472
+Buprenorphine/Naloxone
+
+Doxycycline Hyclate
+
+54686183
+54705095
+54671203
+54685920
+54686898
+54729367
+54732805
+57514051
+57515985
+124219640
+Paroxetine
+
+43815
+Tizanidine
+
+5487
+Synthroid
+
+5819
+Spironolactone
+
+5833
+Methylphenidate
+
+4158
+Armour Thyroid
+
+Clonidine
+
+2803
+Ventolin HFA
+
+39859
+Atorvastatin Calcium
+
+60822
+15378998
+60823
+656846
+11227182
+45790066
+101610369
+9833468
+17589822
+131675127
+Levothyroxine
+
+5819
+Lisinopril
+
+5362119
+Omeprazole
+
+4594
+Metformin HCL
+
+14219
+Amlodipine/Benazepril
+
+Simvastatin
+
+54454
+Hydrocodone/Acetaminophen
+
+5748525
+Metoprolol Succinate
+
+62937
+9800288
+4171
+ Losartan Potassium
+
+11751549
+23663390
+9847164
+3961
+11476710
+53396294
+25749227
+ Zolpidem Tartrate
+
+18004026
+57487
+24720996
+ Azithromycin
+
+447043
+ Hydrochlorothiazide
+
+3639
+ Furosemide
+
+3440
+ Metoprolol Tartrate
+
+ Pantoprazole
+
+4679
+ Gabapentin
+
+3446
+ Amoxicillin
+
+33613
+ Prednisone
+
+5865
+ Sertraline
+
+68617
+ Tamsulosin
+
+129211
+ Fluticasone
+
+5311101
+62924
+24847768
+122130768
+ Pravastatin
+
+54687
+ Tramadol HCL
+
+63013
+33741
+67108333
+ Montelukast
+
+5281040
+ Escitalopram
+
+146570
+ Carvedilol
+
+2585
+ Alprazolam
+
+2118
+ Warfarin
+
+54678486
+ Meloxicam
+
+54677470
+ Clopidogrel
+
+60606
+ Amoxicillin
+
+33613
+ Allopurinol
+
+2094
+ Bupropion HCL
+
+62884
+ Lisinopril/Hydrochlorothiazide
+
+ Citalopram
+
+2771
+ Losartan Potassium
+
+11751549
+23663390
+9847164
+3961
+11476710
+53396294
+25749227
+ Atenolol
+
+2249
+ Cialis
+
+110635
+ Duloxetine
+
+60835
+ Fluoxetine
+
+3386
+ Fenofibrate
+
+3339
+ Crestor
+
+5282455
+446157
+9869776
+45114162
+ Venlafaxine
+
+5656
+ Ventolin HFA
+
+39859
+ Amphetamine/Dextroamphetamine
+
+ Cyclobenzaprine
+
+2895
+ Trazodone HCL
+
+62935
+ Potassium Chloride
+
+4873
+ Methylprednisolone
+
+6741
+ Lantus Solostar
+
+118984454
+ Advair Diskus
+
+ Potassium Chloride
+
+4873
+ Glimepiride
+
+3476
+ Levofloxacin
+
+149096
+ Oxycodone/Acetaminophen
+
+ Sulfamethoxazole/Trimethoprim
+
+ Celecoxib
+
+2662
+ Cephalexin
+
+27447
+ Clonazepam
+
+2802
+ Ciprofloxacin
+
+2764
+ Valsartan/Hydrochlorothiazide
+
+ Acetaminophen
+
+1983
+ Esomeprazole
+
+9568614
+4594
+9579578
+ Viagra
+
+5212
+62853
+ Amlodipine Benazepril
+
+ Triamterene/Hydrochlorothiazide
+
+62940
+ Spironolactone
+
+5833
+ Ibuprofen
+
+3672
+ Synthroid
+
+5819
+ Zetia
+
+150311
+ Proair HFA
+
+39859
+ Lorazepam
+
+3958
+ Ranitidine
+
+3001055
+ Lantus
+
+118984454
+ Lansoprazole
+
+3883
+ Januvia
+
+4369359
+ Finasteride
+
+57363
+ Valsartan
+
+60846
+ Bystolic
+
+71301
+ Valacyclovir
+
+60773
+ Doxycycline
+
+54671203
+ Cefdinir
+
+6915944
+6399253
+6398970
+6803597
+6399011
+11655595
+88046200
+123133951
+ Latanoprost Ophthalmic
+
+ Lyrica
+
+5486971
+ Fluconazole
+
+3365
+ Testosterone
+
+6013
+ Triamcinolone
+
+31307
+ Paroxetine
+
+43815
+ Xarelto
+
+9875401
+ Lovastatin
+
+53232
+ Bd pen needle
+
+ Estradiol
+
+5757
+ Naproxen
+
+156391
+ Pioglitazone
+
+4829
+ Oxycodone
+
+5284603
+ Ramipril
+
+5362129
+ Methylphenidate
+
+4158
+ Isosorbide Mononitrate
+
+27661
+ Vytorin
+9832423
