@@ -204,6 +204,8 @@ Metoprolol Succinate
  Vytorin
  
  PHASE-1---Get drugs from drugs.txt and retrieve thier CID(Compound Indentifier) from Pubchem and save data into drugs_cid.txt
+ 
+ 
  PHASE-2---Get drugs chemical features from pubchem database using Api and save it into drugs_chem_data.txt
  
  
