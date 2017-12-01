@@ -1,6 +1,6 @@
 # PUBCHEM_Drugs_Data
 
-Initial Drugs.txt contains list of 100 drugs filled using insurance and 100 non-insurance filled drugs these drugs are---
+####Initial Drugs.txt contains list of 100 drugs filled using insurance and 100 non-insurance filled drugs these drugs are---
 
 Phentermine
 Hydrocodone/Acetaminophen
@@ -203,10 +203,9 @@ Metoprolol Succinate
  Isosorbide Mononitrate
  Vytorin
  
- PHASE-1---Get drugs from drugs.txt and retrieve thier CID(Compound Indentifier) from Pubchem and save data into drugs_cid.txt
+#####PHASE-1---Get drugs from drugs.txt and retrieve thier CID(Compound Indentifier) from Pubchem and save data into drugs_cid.txt
  
  
- PHASE-2---Get drugs chemical features from pubchem database using Api and save it into drugs_chem_data.txt
+ #####PHASE-2---Get drugs chemical features from pubchem database using Api and save it into drugs_chem_data.txt
  
- 
- #KINDLY ADD MORE DRUGS AND RUN THE SCRIPTS
+ ###KINDLY ADD MORE DRUGS AND RUN THE SCRIPTS
